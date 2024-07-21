@@ -1,8 +1,7 @@
 
 # Hospital Management
-
+The Hospital Management System is a web application built using Django to streamline hospital operations and enhance patient care. It provides a comprehensive set of functionalities for admins, doctors, and patients to manage various aspects of hospital administration efficiently.
 ---
-## screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
